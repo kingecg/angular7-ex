@@ -4,7 +4,7 @@ import { MediaMatcher } from '@angular/cdk/layout';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styles: ['app.component.scss']
+  styleUrls: ['app.component.scss']
 })
 export class AppComponent {
   title = 'angular7-ex';
